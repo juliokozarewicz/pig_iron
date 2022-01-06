@@ -3,17 +3,16 @@ The vast majority of pig iron is produced and consumed within integrated steel m
 
 The term “pig iron” dates back to the time when hot metal was cast into ingots before being charged to the steel plant. The moulds were laid out in sand beds such that they could be fed from a common runner. The group of moulds resembled a litter of sucking pigs, the ingots being called “pigs” and the runner the “sow.”
 
-Merchant pig iron
 Merchant pig iron is cold pig iron, cast into ingots and sold to third parties as feedstock for the steel and ferrous casting industries.
 
 Merchant pig iron is produced by:
-
 dedicated merchant plants - all of whose production is sold to external customers: or
 integrated steel mills - with iron that is surplus to their internal requirements and cast into ingots and sold to the merchant market.
 Types of merchant pig iron
 Merchant pig iron comprises three main types:
 
-basic pig iron: used mainly in electric arc steelmaking
+basic pig iron: 
+used mainly in electric arc steelmaking
 foundry pig iron (also known as haematite pig iron): used in mainly in the manufacture of grey iron castings in cupola furnaces
 high purity pig iron (also known as nodular pig iron): used in the manufacture of ductile [also known as nodular or spheroidal graphite – SG] iron castings.
 There are also various sub-types, for example low manganese basic pig iron, semi-nodular pig iron etc.
