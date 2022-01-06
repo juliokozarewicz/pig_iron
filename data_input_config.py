@@ -46,12 +46,12 @@ path_x13_arima = "C:/Program Files (x86)/x13as/0_x13as"
 
 # Manual parameter setting
 # ==========================================================
-p = 1 #1
+p = 0 #0
 d = 1 #1
 q = 0 #1
-P = 1 #3
-D = 1 #1
-Q = 0 #0
+P = 1 #1
+D = 0 #0
+Q = 1 #1
 
 # inform the periodicity of the series (D=365, M=12, Y=1)
 s = 12
