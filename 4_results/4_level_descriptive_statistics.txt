@@ -1,0 +1,11 @@
+--------------------------------------------------
+Descriptive analysis:
+
+Variable: PIG IRON (TONNE) (level)
+Mean: 2453.57
+Median: 2409.20
+Sample std: 342.12
+Variance: 117048.14
+Lowest: 1595.50
+Highest: 3355.60
+--------------------------------------------------
