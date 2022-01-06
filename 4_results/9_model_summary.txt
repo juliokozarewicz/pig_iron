@@ -1,9 +1,9 @@
                                       SARIMAX Results                                       
 ============================================================================================
-Dep. Variable:                     pig_iron_(tonne)   No. Observations:                  263
+Dep. Variable:             pig_iron_(thousand_tons)   No. Observations:                  263
 Model:             SARIMAX(0, 1, 0)x(1, 0, [1], 12)   Log Likelihood               -1684.798
 Date:                              Thu, 06 Jan 2022   AIC                           3377.597
-Time:                                      14:08:55   BIC                           3391.870
+Time:                                      14:27:19   BIC                           3391.870
 Sample:                                  01-01-2000   HQIC                          3383.334
                                        - 11-01-2021                                         
 Covariance Type:                                opg                                         

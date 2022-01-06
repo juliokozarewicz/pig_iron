@@ -3,7 +3,7 @@ ADF Results:
 
 Nonseasonal differences needed for stationarity: 1
 
-Variable: PIG IRON (TONNE)
+Variable: PIG IRON (THOUSAND TONS)
 ADF Test: -5.703919
 P-value: 0.000009
 Lags: 12

@@ -1,7 +1,7 @@
 --------------------------------------------------
 Descriptive analysis:
 
-Variable: PIG IRON (TONNE) (level)
+Variable: PIG IRON (THOUSAND TONS) (level)
 Mean: 2453.57
 Median: 2409.20
 Sample std: 342.12

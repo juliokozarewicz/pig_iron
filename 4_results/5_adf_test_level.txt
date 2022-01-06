@@ -1,7 +1,7 @@
 --------------------------------------------------
 ADF Results (level):
 
-Variable: PIG IRON (TONNE)
+Variable: PIG IRON (THOUSAND TONS)
 ADF Test: -3.285218
 P-value: 0.068719
 Lags: 13

@@ -1,4 +1,4 @@
-index_date,pig_iron_(tonne)_forecast
+index_date,pig_iron_(thousand_tons)_forecast
 2021-12-01,2409.2867968589485
 2022-01-01,2401.450363076584
 2022-02-01,2265.4148889468256
